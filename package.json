@@ -1,9 +1,9 @@
 {
-  "name": "cordova-plugin-networkinterface",
-  "version": "1.1.0",
+  "name": "cordova-plugin-networkinterface-mba",
+  "version": "1.1.1",
   "description": "This plugin allows your application to retrieve the local wifi address.",
   "cordova": {
-    "id": "cordova-plugin-networkinterface",
+    "id": "cordova-plugin-networkinterface-mba",
     "platforms": [
       "ios",
       "android",

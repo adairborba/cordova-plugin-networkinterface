@@ -2,8 +2,8 @@
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android"
-    id="cordova-plugin-networkinterface"
-    version="1.1.0">
+    id="cordova-plugin-networkinterface-mba"
+    version="1.1.1">
 
     <name>NetworkInterface</name>
     <description>
